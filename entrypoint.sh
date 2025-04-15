@@ -1,4 +1,5 @@
-#!/bin/bash  -e means exit script if an error occurs
+#!/bin/bash
+# -e means exit script if an error occurs
 set -e
 
 #Verify it is running in Github by checking enviornment variable exists
