@@ -1,8 +1,0 @@
-name: 'Custom Action'
-description: 'Print Hello World'
-runs:
-   using: 'docker'
-   image: 'Dockerfile'
-branding:
-   icon: 'gift'
-   color: 'blue'
