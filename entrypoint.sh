@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 # -e means exit script if an error occurs
 set -e
 
